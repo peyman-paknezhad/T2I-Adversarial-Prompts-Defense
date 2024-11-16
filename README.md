@@ -1,5 +1,5 @@
 # T2I-Adversarial-Prompts-Defense
-Exploring adversarial prompt attacks and defenses on text-to-image diffusion models, featuring advanced generation techniques and a novel Flan-T5-based correction mechanism to enhance robustness
+### Exploring adversarial prompt attacks and defenses on text-to-image diffusion models, featuring advanced generation techniques and a novel Flan-T5-based correction mechanism to enhance robustness
 ---
 
 # **Adversarial Prompt Generation for Text-to-Image Models with Defense Strategies Using Language Models**
