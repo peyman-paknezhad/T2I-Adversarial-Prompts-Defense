@@ -2,7 +2,7 @@
 Exploring adversarial prompt attacks and defenses on text-to-image diffusion models, featuring advanced generation techniques and a novel Flan-T5-based correction mechanism to enhance robustness
 ---
 
-# **Adversarial Prompt Generation and Correction for Text-to-Image Models**
+# **Adversarial Prompt Generation for Text-to-Image Models with Defense Strategies Using Language Models**
 
 ## **Abstract**
 This project explores adversarial attacks on text-to-image models by generating minimal prompt perturbations that cause significant changes in model outputs. Inspired by the work *"A Pilot Study of Query-Free Adversarial Attack against Stable Diffusion"* by **Haomin Zhuang**, **Yihua Zhang**, and **Sijia Liu**, this implementation incorporates adversarial prompt generation techniques like **Greedy Search**, **Genetic Algorithm**, and **PGD (Projected Gradient Descent)**. Additionally, it extends the original methodology with **Particle Swarm Optimization (PSO)**, **Simulated Annealing**, and **Bayesian Optimization**. To mitigate such attacks, a novel defense mechanism is proposed using **Flan-T5** to correct adversarial prompts, ensuring semantic clarity and alignment with the original intent ( I'm unsure whether this adversarial method is truly novel or if it's already been explored. It just occurred to me, so let me know if others have worked on this before).
